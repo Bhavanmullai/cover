@@ -151,7 +151,7 @@ book.html
 
         <hr>
 
-        <div class="author-name">Rakshatha S A</div>
+        <div class="author-name">BHAVAN M S</div>
 
         <div class="publisher">SEC</div>
 
